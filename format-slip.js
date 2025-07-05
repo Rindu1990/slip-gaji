@@ -1,5 +1,5 @@
 // format-slip.js versi fix
-const GITHUB_TOKEN = "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";
+const GITHUB_TOKEN = "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";
 const GITHUB_USER = "Rindu1990";
 const GITHUB_REPO = "slip-gaji";
 const GITHUB_BRANCH = "main";
